@@ -1,0 +1,14 @@
+{
+  "name": "citation_gen",
+  "version": "1.0.0",
+  "description": "xd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@blockzilla101/citation": "^1.3.0"
+  }
+}
