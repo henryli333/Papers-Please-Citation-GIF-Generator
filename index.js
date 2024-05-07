@@ -4,7 +4,7 @@ const citation = new Citation()
 // new Citation(<width>, <height>)
 
 citation.title = 'M.O.A. CITATION';
-citation.reasion = 'Protocol Violated.\nEntry Permit: Invalid Name';
+citation.reason = 'Protocol Violated.\nEntry Permit: Invalid Name';
 citation.penalty = 'LAST WARNING - NO PENALTY';
 citation.width = 450 
 citation.height = 200
